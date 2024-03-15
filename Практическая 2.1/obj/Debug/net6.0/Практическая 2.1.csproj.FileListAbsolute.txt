@@ -1,0 +1,5 @@
+C:\Users\gr631_gopyur\source\repos\Учебная практика 2\Практическая 2.1\Практическая 2.1\obj\Debug\net6.0\Практическая 2.1.csproj.AssemblyReference.cache
+C:\Users\gr631_gopyur\source\repos\Учебная практика 2\Практическая 2.1\Практическая 2.1\obj\Debug\net6.0\Практическая 2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr631_gopyur\source\repos\Учебная практика 2\Практическая 2.1\Практическая 2.1\obj\Debug\net6.0\Практическая 2.1.AssemblyInfoInputs.cache
+C:\Users\gr631_gopyur\source\repos\Учебная практика 2\Практическая 2.1\Практическая 2.1\obj\Debug\net6.0\Практическая 2.1.AssemblyInfo.cs
+C:\Users\gr631_gopyur\source\repos\Учебная практика 2\Практическая 2.1\Практическая 2.1\obj\Debug\net6.0\Практическая 2.1.csproj.CoreCompileInputs.cache
